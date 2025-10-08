@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/seu-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Whatsapp"/>
+    <img src="https://img.shields.io/badge/Whatsapp-E4405F?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
   <a href="mailto:gabrieloliveiraandrade680@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
