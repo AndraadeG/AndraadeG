@@ -24,7 +24,7 @@
 
 ###
 
-<h5 align="left">👉🌐 Conecte-se comigo:</h5>
+<h5 align="left">🌐 Conecte-se comigo:</h5>
 
 ###
 
