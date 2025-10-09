@@ -1,12 +1,13 @@
-<h2 align="center">👋 Olá, eu sou Gabriel Andrade!</h2>
+<table>
+  <tr>
+    <td>
 
-###
+### Olá, Eu sou Gabriel! 👋
 
-<h5 align="center">💻 Desenvolvedor em constante aprendizado.<br>🚀 Atualmente estudando PHP, JavaScript, Laravel, HTML, CSS e MySQL.</h5>
+💻 Desenvolvedor em constante aprendizado.
+🚀 Atualmente estudando PHP, JavaScript, Laravel, HTML, CSS e MySQL.
 
-###
-
-<div align="center">
+<div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="46" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="46" alt="laravel logo"  />
@@ -22,20 +23,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="javascript logo"  />
 </div>
 
-###
+<hr>
 
-<h5 align="left">🌐 Conecte-se comigo:</h5>
+#### 🌐 Conecte-se comigo:
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+ <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="whatsapp logo"  />
-</div>
 
-###
 
-<img align="left" height="250" src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-1.gif"  />
 
-###
+</td>
+    <td align="center">
+      <img src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-1.gif" width="310px" alt="Dog studying" />
+    </td>
+  </tr>
+</table>
+
